@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "header":"Applications",
+        "text":"Whether you are a start-up or an established business, we are ready to assist you at every stage of the software development life cycle — from conceptualization and consulting to development and support."
+    },
+    {
+        "id": 2,
+        "header":"Websites",
+        "text":"Our software engineers have a wealth of experience in building web applications. We are also experts in many verticals and business domains, including e-Commerce, e-Learning, AdTech, Finance, Entertainment, and more."
+    },
+    {
+        "id": 3,
+        "header":"Games",
+        "text":"Our game developers are experienced in cross-platform Games ."
+    },
+    {
+        "id": 4,
+        "header":"SEO",
+        "text":"There are a variety of search engine optimization services which offer solutions for ranking issues and deficiencies. Depending on your goals, and needs one, or a combination, of the below services may be right for your website. And we can reach you to the top of the pages of reputed search engines ."
+    },
+    {
+        "id": 5,
+        "header":"Online Marketing",
+        "text":"Web based advertising moves at the speed of light. To keep up, you require a solid establishment with the judgment to think fundamentally, act freely, and be persistently inventive. That is the reason we composed this guide — to enable you with the psychological building pieces to remain ahead in a forceful industry."
+    },
+    {
+        "id": 6,
+        "header":"E-Commerce",
+        "text":"No matter how successful your ecommerce website is, you should always be brainstorming for ways to improve it. Developing innovative ecommerce promotion ideas can be tough, but will ultimately pay off in dividends when implemented correctly on your ecommerce store. We are here to make that easy for you"
+    }
+
+
+]

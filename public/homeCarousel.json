@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "title": "Custom Software Development",
+        "image":"./image/images/customSoft.jpeg",
+        "text": "Whether you are a start-up or an established business, we are ready to assist you at every stage of the software development life cycle — from conceptualization and consulting to development and support."
+    },
+    {
+        "id": 2,
+        "title": "Mobile Application Development",
+        "image": "./image/images/mobileApp.jpg",
+        "text": "Develop powerful, highly usable mobile apps that solve business problems, attract users, and reinforce your brand. We build native, hybrid, and cross-platform apps that run on all major operating systems such as iOS and Android."
+    },
+    {
+        "id": 3,
+        "title": "Deskttop Application Development",
+        "image": "./image/images/desktopApp.png",
+        "text": "Outfitting your computer with the latest software can be expensive. Time and money aren’t things to be wasted. With sky rocketing prices for desktop applications, you need to arm yourself with the right alternatives. Here we are to offer you what you need in the most suitable rate ."
+    },
+    {
+        "id": 4,
+        "title": "Web Application Development",
+        "image": "./image/images/webApp.jpg",
+        "text": "Our software engineers have a wealth of experience in building web applications. We are also experts in many verticals and business domains, including e-Commerce, e-Learning, AdTech, Finance, Entertainment, and more."
+    },
+    {
+        "id": 5,
+        "title": "Search Engine Optimization (SEO) service",
+        "image": "./image/images/seo.jpg",
+        "text": "There are a variety of search engine optimization services which offer solutions for ranking issues and deficiencies. Depending on your goals, and needs one, or a combination, of the below services may be right for your website. And we can reach you to the top of the pages of reputed search engines ."
+    }
+]

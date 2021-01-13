@@ -1,0 +1,24 @@
+
+.careersec-container{
+    height: 100vh;  
+}
+
+#caro-career-caption{
+    color: orange;
+    font-family: 'Nova Flat', cursive;
+    font-size: 2rem;
+}
+
+#p-tag{
+    color: orange;
+    font-family: 'Nova Flat', cursive;
+    font-size: 0.9rem;  
+    text-decoration: none;
+}
+
+#p-tag:hover{
+    text-decoration: none;
+    color: lightblue; 
+    font-size: 1.2rem;
+    font-weight: bold; 
+}

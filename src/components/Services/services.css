@@ -1,0 +1,42 @@
+/* Service-sec */
+
+#services{
+    background-image: url('./background.jpg');
+    background-attachment: fixed;
+    filter: brightness(90%);
+}
+.servicesec-container{
+    margin: auto; 
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    justify-content: space-around;
+}
+#paragraph{
+    text-align:center;
+    margin: auto;
+    width:90vw;
+    font-size: 1.1rem;
+    font-weight: bold; 
+}
+#caro-caption{
+    color: orange;
+    font-family: 'Nova Flat', cursive;
+    font-size: 4rem;
+}
+
+#header{
+    font-family: 'Nova Flat', cursive;
+}
+#cards{
+    border-radius: 0 40px 0 40px;
+    transition:0.6s;
+}
+#cards:hover{
+    background:black;
+    color: orange;
+    border-color:white;
+    border-radius:40px 0 40px 0;
+    transition:0.6s;
+}
+

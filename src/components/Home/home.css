@@ -1,0 +1,75 @@
+/* NewsRoom */
+.newsroom-container {
+  height:auto;
+}
+/* #home{
+  background-attachment: fixed;
+  background-image: url('https://img.freepik.com/free-vector/abstract-blue-geometric-shapes-background_1035-17545.jpg?size=626&ext=jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+#caro-title{
+  color: orange;
+  font-family: 'Nova Flat', cursive;
+  font-size: 2.5rem;
+}
+#caro-text{
+  font-size: 1.5rem;
+  text-align: center;
+}
+.newsroom-heading {
+  margin: auto;
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: bold;
+  font-family: "Nova Flat", cursive;
+  color: orange;
+}
+
+@media screen and (max-width: 600px){
+  #caro-title{
+    color: orange;
+    font-family: 'Nova Flat', cursive;
+    font-size: 1.5rem;
+  }
+  #caro-text{
+    font-size: 1rem;
+    text-align: center;
+  }
+}
+
+#paragraph{
+  text-align:center;
+  margin: auto;
+  width:90vw;
+
+  font-size: 1.1rem;
+  font-weight: bold; 
+}
+.app {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  margin-bottom: 2rem;
+}
+
+#card{
+  border-radius: 0 40px;
+  font-family: 'Nova Flat', cursive;
+}
+/* #card:hover{
+  transform: translate;
+} */
+#btn{
+  border-radius:0 20px;
+  height: 40px;
+  float: right;
+  width: 100%;
+}
+
+#C-body{
+  background: orange;
+
+}

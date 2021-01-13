@@ -1,0 +1,25 @@
+[
+  {
+    "_id": 1,
+    "id":"vision",
+    "title": "Our Vision",
+    "image": "./image/images/vision.jpg",
+    "text": "Our vision is to deliver optimal solutions with quality and services at reasonable prices. For us customer satisfaction is  given top place. We always try to improve the quality of our products by exploring innovative ideas."    
+  },
+  {
+    "_id": 2,
+    "id":"plan",    
+    "title": "Our Plan",
+    "image": "./image/images/plan.png",
+    "text": "We expect a high degree of profitability based on our plan to key in on businesses that have already expressed the need for such services and products to the software manufacturer. Our management    expertise in dealing with corporate decision makers and our partner's reputation will be the cornerstone of our success."
+
+
+  },
+  {
+    "_id": 3,
+    "id":"mission",
+    "title": "Our Mission",
+    "image": "./image/images/mission.jpg",
+    "text": "Our mission is to enhancing the business growth of our customers with creative Design and Development to deliver market-defining high-quality solutions that create value and reliable competitive  advantage for our clients around the world."
+     }
+]

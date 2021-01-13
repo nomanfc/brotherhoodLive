@@ -1,0 +1,16 @@
+.contactsec-container{
+    height: 100vh;  
+}
+
+#caro-contact-caption{
+    color: orange;
+    font-family: 'Nova Flat', cursive;
+    font-size: 3rem;
+}
+
+#p-tag-contact{
+    color: orange;
+    font-family: 'Nova Flat', cursive;
+    font-size: 1.2rem;  
+    text-decoration: none;
+}

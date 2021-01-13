@@ -1,0 +1,33 @@
+/* AboutSection */
+.aboutsec-container{
+    height: 100vh; 
+}
+
+#about{
+    background-image: url(https://ak.picdn.net/shutterstock/videos/1023889771/thumb/1.jpg);
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+}
+.paragraph{
+    text-align:center;
+    margin: auto;
+    width:90vw;
+
+    font-size: 1.1rem;
+    font-weight: bold; 
+}
+.card-img1, .card-img2, .card-img3{
+    height: 20rem;
+    width: 20rem;
+    filter: brightness(25%);
+}
+
+#vision , #mission, #plan{
+    color: orange;
+    font-size: 1rem bold;
+    text-align:center;
+    margin: auto;
+    margin-top:10%;
+    align-items: center;
+    transition-timing-function: ease;
+}
